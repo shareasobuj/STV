@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>STV</title>
 <style>
-body {font-family: Arial, sans-serif; margin:0; background:#f0f2f5;}
+body {font-family: Arial, sans-serif; margin:0; background: black;}
 header {background: green; color: orange; padding:15px; text-align:center;}
 nav {display:flex; justify-content:center; background:#0074cc;}
 nav button {margin:5px; padding:10px 20px; background:white; border:none; cursor:pointer; border-radius:5px;}
