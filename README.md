@@ -6,7 +6,7 @@
 <title>STV</title>
 <style>
 body {font-family: Arial, sans-serif; margin:0; background:#f0f2f5;}
-header {background: green; color:white; padding:15px; text-align:center;}
+header {background: green; color: orange; padding:15px; text-align:center;}
 nav {display:flex; justify-content:center; background:#0074cc;}
 nav button {margin:5px; padding:10px 20px; background:white; border:none; cursor:pointer; border-radius:5px;}
 nav button:hover {background:#ddd;}
