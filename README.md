@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>EduTV - Online Learning</title>
+<title>STV</title>
 <style>
 body {font-family: Arial, sans-serif; margin:0; background:#f0f2f5;}
-header {background:#1e90ff; color:white; padding:15px; text-align:center;}
+header {background: green; color:white; padding:15px; text-align:center;}
 nav {display:flex; justify-content:center; background:#0074cc;}
 nav button {margin:5px; padding:10px 20px; background:white; border:none; cursor:pointer; border-radius:5px;}
 nav button:hover {background:#ddd;}
@@ -24,7 +24,7 @@ button:hover {background:#0074cc;}
 <body>
 
 <header>
-  <h1>EduTV - Online Learning</h1>
+  <h1> STV </h1>
 </header>
 
 <nav>
